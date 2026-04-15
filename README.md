@@ -4,6 +4,10 @@
 [![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=skyblue)]()
 
+
+🌐 **Live Preview**: [https://cravecart-swiggy-clone.vercel.app/](https://cravecart-swiggy-clone.vercel.app/)
+
+
 ## Description
 A food ordering web application inspired by Swiggy, featuring menu search, live API integration for restaurant data, and cart management. 
 This project is built using React, Tailwind CSS, and Redux Toolkit, providing a responsive and user-friendly experience. 🚀
@@ -182,14 +186,6 @@ Contributions are always welcome! Please follow these steps:
 
 ## License 📜
 This project has no specified license. All rights are reserved unless otherwise specified.
-
-
-
-## Important Links 🔗
-- **Repository URL:** [https://github.com/IshitaA3/Swiggy-Clone](https://github.com/IshitaA3/Swiggy-Clone)
--🌐 **Live Preview**: [https://cravecart-swiggy-clone.vercel.app/](https://cravecart-swiggy-clone.vercel.app/)
-
-
 
 
 ## Footer 👣
